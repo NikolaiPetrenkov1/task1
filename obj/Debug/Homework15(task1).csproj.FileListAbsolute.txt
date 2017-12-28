@@ -1,0 +1,7 @@
+C:\Users\ПетренковН\source\repos\Homework15(task1)\Homework15(task1)\bin\Debug\Homework15(task1).exe.config
+C:\Users\ПетренковН\source\repos\Homework15(task1)\Homework15(task1)\bin\Debug\Homework15(task1).exe
+C:\Users\ПетренковН\source\repos\Homework15(task1)\Homework15(task1)\bin\Debug\Homework15(task1).pdb
+C:\Users\ПетренковН\source\repos\Homework15(task1)\Homework15(task1)\obj\Debug\Homework15(task1).csprojResolveAssemblyReference.cache
+C:\Users\ПетренковН\source\repos\Homework15(task1)\Homework15(task1)\obj\Debug\Homework15(task1).csproj.CoreCompileInputs.cache
+C:\Users\ПетренковН\source\repos\Homework15(task1)\Homework15(task1)\obj\Debug\Homework15(task1).exe
+C:\Users\ПетренковН\source\repos\Homework15(task1)\Homework15(task1)\obj\Debug\Homework15(task1).pdb
